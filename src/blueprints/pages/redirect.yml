@@ -1,0 +1,18 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: Redirect
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: url
+
+create:
+  title:
+    label: Title
+  fields:
+    - redirect_target
+
+sections:
+  main_fields:
+    type: fields
+    fields:
+      redirect_target:
+        type: text
