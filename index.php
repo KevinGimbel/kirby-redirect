@@ -1,6 +1,6 @@
 <?php
 
-Kirby::plugin('kevingimbel/kirby-redirect', [
+Kirby::plugin('kevingimbel/redirect', [
     'blueprints' => [
         'pages/redirect' => __DIR__ . '/src/blueprints/pages/redirect.yml',
     ],

@@ -1,0 +1,21 @@
+{
+  "name": "kevingimbel/kirby-redirect",
+  "description": "Create redirect links as pages from the Kirby panel",
+  "license": "MIT",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kevin Gimbel",
+      "email": "kevin@gimbel.dev"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.2"
+  },
+  "extra": {
+    "kirby": {
+      "compatible": "^5.0"
+    }
+  }
+}

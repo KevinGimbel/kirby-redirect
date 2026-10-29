@@ -16,8 +16,11 @@ See my [blogpost about the why and how](https://kevingimbel.de/blog/redirect-lin
 
 ## Installation
 
-1. Clone or copy the source code of this repository to `site/plugins/kirby-redirect`
-2. Done
+Clone or copy the source code of this repository to `site/plugins/kirby-redirect`, or add it as a sub-module:
+
+```sh
+git submodule add https://github.com/KevinGimbel/kirby-redirect.git site/plugins/kirby-redirect
+```
 
 ## Usage
 
