@@ -57,7 +57,6 @@ All just commands assume they are run in the nix-shell environment.
 |`just dev`|Enter nix dev shell|
 |`just validate`|Run `php -l` against php files for PHP 8.3, 8.4 and 8.5|
 |`just toc`|Update the Table of Contents|
-```
 
 ## License
 
